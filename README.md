@@ -1,4 +1,4 @@
-Mohamed Salama — Personal Portfolio
+## 👤 Mohamed Salama — Personal Portfolio
 
 Welcome to my personal portfolio! I am a Computer and Information student at Zagazig University with a growing interest in Data Science, Data Analytics, and problem-solving.
 
